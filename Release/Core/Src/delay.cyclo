@@ -1,0 +1,2 @@
+../Core/Src/delay.c:15:6:_delay_ms	3
+../Core/Src/delay.c:32:6:_delay_us	3
